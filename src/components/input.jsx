@@ -31,7 +31,7 @@ function Input(props) {
         <div id="input">
             <div id="inputF">
                 <div class="main">
-                    <p>There is a use case where a person wishes to swim with V velocity across a river with a“X” velocity and Y degree angle from one side of the river bank to another consideringthe width to be “W”. You have to develop a web application which will plot a trajectory ofthe flow and time taken to cross the river​,​where all parameters can be changed viainput box of
+                    <p>There is a use case where a person wishes to swim with V velocity across a river with a“X” velocity and Y degree angle from one side of the river bank to another consideringthe width to be “W”. You have find the plot a trajectory ofthe flow and time taken to cross the river​,​where all parameters can be changed viainput box of
               <br /> 1.River Velocity - X m/s
                <br />2.Person Velocity - V m/s
                <br />3.Angle of swim  - Y
